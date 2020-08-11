@@ -18,5 +18,4 @@ function appendKitten(name) {
 function prependKitten(name) {
   return([...kitens, name])
 }
-function
 // Add your functions and code here
